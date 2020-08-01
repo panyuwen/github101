@@ -22,8 +22,7 @@
 	## Update remote refs along with associated objects
 	$ git push -u origin master
 	
-	## And your contribution will be remembered. 
-`If the "push" step FAILS, run step 6 to update your current repository. Then "add, commit, and push", again.`
+`If the "push" step FAILS, run step 3 to update your current repository. Then "add, commit, and push", again.`
 
 #### 3. ***Update your current working files***
 	## Fetch from and integrate with another repository or a local branch. You'd better know the difference between "pull" and "fetch"
