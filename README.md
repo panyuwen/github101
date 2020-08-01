@@ -31,9 +31,10 @@
 #### 4. ***Existing folder***
 	$ cd existing_folder
 	$ git init
-	$ git remote add origin https://github.com/panyuwen/existing_folder.git
-	$ git add .
+	$ git add XXX
 	$ git commit -m "Initial commit"
+	create a repository on github, but without README
+	$ git remote add origin https://github.com/panyuwen/existing_folder.git
 	$ git push -u origin master
 
 #### 5. ***Existing Git repository***
