@@ -5,10 +5,10 @@
 
 #### 2. Create a new repository
 	## Download the demo, you can create a new repository later
-	$ git clone https://github.com/panyuwen/learn_github.git
+	$ git clone https://github.com/panyuwen/github101.git
 	
 	## Working directory
-	$ cd learn_github
+	$ cd github101
 	
 	## Create a new working file, or modify an existing file
 	$ touch README.md
